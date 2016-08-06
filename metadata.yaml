@@ -1,0 +1,27 @@
+_repo: Cap-and-GownA-Treasury-of-College-Verse_10596
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Knowles, Frederic Lawrence
+    birthdate: 1869
+    deathdate: 1905
+    gutenberg_agent_id: '3591'
+    url: http://www.gutenberg.org/2009/agents/3591
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PN'
+- !lcsh 'College verse, American'
+- GITenberg
+title: 'Cap and Gown
+
+  A Treasury of College Verse'
+url: http://www.gutenberg.org/ebooks/10596
