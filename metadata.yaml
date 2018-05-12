@@ -1,5 +1,5 @@
 _repo: Cap-and-GownA-Treasury-of-College-Verse_10596
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Knowles, Frederic Lawrence
@@ -7,7 +7,12 @@ contributor:
     deathdate: 1905
     gutenberg_agent_id: '3591'
     url: http://www.gutenberg.org/2009/agents/3591
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10596#Cap-and-GownA-Treasury-of-College-Verse
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
